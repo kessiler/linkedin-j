@@ -1,0 +1,9 @@
+bin/
+examples/.settings/
+examples/*.classpath
+examples/*.project
+examples/target/
+core/target/
+core/.settings/
+core/*.classpath
+core/*.project
