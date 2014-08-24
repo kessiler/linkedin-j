@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+	<id>50472</id>
+	<name>J Architect</name>
+	<short-description>Network of architects in Java and related technologies. This group is to share technology and experiences to lay down the foundation for future. 
+Notice:- Java is a registered trade mark of Sun Microsystems.</short-description>
+	<description>Network of architects in Java and related technologies. This group is to share technology and experiences to lay down the foundation for future. Here your can:-
+I) Get appreciation by contributing in the discussion forum. 
+II) Ask your technical queries and get solutions from industries top class hands on professionals.
+
+Note:- Please don't post jobs directly in discussion forum. 
+1) There is a dedicated section in this group named Jobs. Jobs can be posed under Jobs tab.
+2) Join group named &quot;ArchitectJobs&quot; and post jobs there.
+3) Join group &quot;TechJobs&quot; and post jobs there.
+
+Disclaimer:- All messages made available as part of this group and any opinions, advice, statements or other information contained in any messages posted or transmitted by any third party are the responsibility of the author of that message and not of this group, its owner and managers. The fact that a particular message is posted on or transmitted using this group does not mean that we have endorsed that message in any way or verified the accuracy, completeness or usefulness of any 
+message. We encourage visitors to the forum to report any objectionable message to group managers.
+
+The information contained in this group is provided 'as is' without warranty of any kind. The entire risk as to the results and the performance of the information is assumed by the user, and in no event we will be liable for any consequential, incidental or direct damages suffered in the course of using the information in this group.
+
+Information on the group is provided for general information only and should not be treated as a substitute for professional supervision or advice. All content on the is for information purposes only and not intended to constitute professional advice as circumstances will vary from project to project or person to person.</description>
+	<relation-to-viewer>
+		<membership-state>
+			<code>member</code>
+		</membership-state>
+		<available-actions total="3">
+			<action>
+				<code>add-post</code>
+			</action>
+			<action>
+				<code>leave</code>
+			</action>
+			<action>
+				<code>view-posts</code>
+			</action>
+		</available-actions>
+	</relation-to-viewer>
+	<counts-by-category total="2">
+		<count-for-category>
+			<category>
+				<code>discussion</code>
+			</category>
+			<count>2</count>
+		</count-for-category>
+		<count-for-category>
+			<category>
+				<code>job</code>
+			</category>
+			<count>32</count>
+		</count-for-category>
+	</counts-by-category>
+	<is-open-to-non-members>true</is-open-to-non-members>
+	<category>
+		<code>professional</code>
+	</category>
+	<site-group-url>http://www.linkedin.com/groups?gid=50472&amp;trk=api*a101220*s101220*</site-group-url>
+	<contact-email>open4connection@gmail.com</contact-email>
+	<locale>en_US</locale>
+	<allow-member-invites>true</allow-member-invites>
+	<small-logo-url>http://media.linkedin.com/mpr/mpr/p/1/000/016/132/3ed8cec.png</small-logo-url>
+	<large-logo-url>http://media.linkedin.com/mpr/mpr/p/2/000/016/132/3dfa577.png</large-logo-url>
+	<posts total="200" count="10" start="0">
+		<post>
+			<id>g-50472-S-60263744</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Walk Ins going on in Bangalore for Java Developers 
+Please see the Jobs for more details</title>
+			<summary/>
+			<creator>
+				<id>wNlCl1eub9</id>
+				<first-name>Faisal</first-name>
+				<last-name>S.</last-name>
+				<headline>HR Executive at Professional Access</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_XGm9LHmr5dEJB7HZQFxdLwpOWWDZvoWZQisWLwSfnuJeEmY4eXYVwIJ3bFSb9DeNL3uHo20OoV5C</picture-url>
+			</creator>
+			<creation-timestamp>1309525896003</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=60263744&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-60229055</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>PMP Certification Workshop - Pune and Mumbai - Learn from the Industry Experts!!!!</title>
+			<summary>Course Duration		:	4 days (35 hrs the basic pre requisite for appearing PMP Exam)
+
+Dates  For Pune		:	9th,10th, 16th and 17th July 2011 (Saturday ,Sunday)
+Location		:	Kohinoor Executive, Deccan, Pune 
+
+Dates For Mumbai	:	16th, 17th, 23rd and 24th July 2011 (Saturday ,Sunday)
+Location		:	Host-Inn International , Andheri East , Opp Marol Fire Brigade, Mumbai
+
+Course Fees              : Rs. 13,000 per participant (Inclusive of all taxes, Course Material, Lunch ETC)
+
+For Registrations Kindly Contact Suresh Nene on 9326272300 or mail to info@mnbinfo.com
+
+Learning Objectives: The course will assist participants to â€¦
+Â§  Understand the complete picture of PMBOKÂ®
+Â§  Understand the 5 process groups and 9 knowledge areas as described in the PMBOK Â®
+Â§  Understand inputs, outputs, tools &amp; techniques essential for each of the project management processes described in PMBOKÂ®
+Â§  Learn the effective approach to confidently appearing for the exam
+Â§  Gain a solid confidence of undertaking the exam
+Â§  Evaluate own strengths and weaknesses to best focus their efforts on exam preparation
+Â§  Satisfy the pre-requisite of 35 contact hours of PM Study for PMP Exam</summary>
+			<creator>
+				<id>OwA0JjzRjF</id>
+				<first-name>Abhijit</first-name>
+				<last-name>M.</last-name>
+				<headline>BNI Member | Consulting | Development | Training | Payroll | Recruitment | Activity Outsourcing</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_Vu55rTVeS9W2WY1PZWk9riuVTqxSwZiPZSlVriEVYAwgNpq1nEvWY_Oq7s0tHxGxR7bU0kNJF8m9</picture-url>
+			</creator>
+			<creation-timestamp>1309507442000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=60229055&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-60081006</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Top 10 Eclipse Indigo Features</title>
+			<summary>After 12 months, 62 projects, 46, 000, 000 lines of code, over 400 committers and 1 Top 10 List: Eclipse Indigo is here (Or use the new Yoxos launcher...</summary>
+			<creator>
+				<id>H8ux0QhGi1</id>
+				<first-name>Khalid Azam</first-name>
+				<last-name>(.</last-name>
+				<headline>MTS-3 at Juniper Networks | Core Java / Swing / Eclipse (RCP / IDE) Plug-in Developer</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_JqFQXFBf7Wdu1MaVRvBJX5z3_Ef80VaVU11JXkqYy7RKhYJsv-cEEX8KSX7xyjf94cLZIi65AVDR</picture-url>
+			</creator>
+			<creation-timestamp>1309424388000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<attachment>
+				<content-url>http://eclipsesource.com/blogs/2011/06/22/top-10-eclipse-indigo-features/</content-url>
+				<title>Top 10 Eclipse Indigo Features</title>
+				<summary>After 12 months, 62 projects, 46, 000, 000 lines of code, over 400 committers and 1 Top 10 List: Eclipse Indigo is here (Or use the new Yoxos launcher...</summary>
+				<image-url>http://eclipsesource.com/blogs/wp-content/uploads/2011/06/screenshot_1441.png</image-url>
+				<content-domain>eclipsesource.com</content-domain>
+			</attachment>
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=60081006&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-60062326</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Which is the best open source Content management tools available..please share your valuble suggestions..</title>
+			<creator>
+				<id>q_xaVJqOSZ</id>
+				<first-name>Venkata Narasimha</first-name>
+				<last-name>R.</last-name>
+				<headline>IT-Consultant</headline>
+			</creator>
+			<creation-timestamp>1309412697000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=60062326&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-59916964</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Making Progress With Swing's Progress Monitoring API</title>
+			<summary/>
+			<creator>
+				<id>H8ux0QhGi1</id>
+				<first-name>Khalid Azam</first-name>
+				<last-name>(.</last-name>
+				<headline>MTS-3 at Juniper Networks | Core Java / Swing / Eclipse (RCP / IDE) Plug-in Developer</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_JqFQXFBf7Wdu1MaVRvBJX5z3_Ef80VaVU11JXkqYy7RKhYJsv-cEEX8KSX7xyjf94cLZIi65AVDR</picture-url>
+			</creator>
+			<creation-timestamp>1309340400000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<attachment>
+				<content-url>http://blogs.oracle.com/CoreJavaTechTips/entry/making_progress_with_swing_s</content-url>
+				<title>Making Progress With Swing's Progress Monitoring API</title>
+				<image-url>http://blogs.oracle.com/CoreJavaTechTips/resource/screen1_v2.gif</image-url>
+				<content-domain>blogs.oracle.com</content-domain>
+			</attachment>
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=59916964&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-59863535</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Open Sources Projects</title>
+			<summary>I completed 2 semesters of Java and do not want to lose it.  I was told about opportunities to join open source projects that could help me retain and gain knowledge.  I am complete beginner in Java.  One suggestion has been SourceForge.  Any other suggestions on where to go as a beginner?</summary>
+			<creator>
+				<id>Y3GfgJ0jPN</id>
+				<first-name>Steve</first-name>
+				<last-name>R.</last-name>
+				<headline>System Administrator</headline>
+			</creator>
+			<creation-timestamp>1309300037000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="4">
+				<comment>
+					<id>g-50472-S-59863535-43581910</id>
+					<text>What did you study during those semesters?
+
+In my experience you should have a substantial knowledge to join any open source project or even to understand what is written.</text>
+					<creator>
+						<id>EVxPRNv4K1</id>
+						<first-name>Mladen</first-name>
+						<last-name>U.</last-name>
+						<headline>developer</headline>
+					</creator>
+					<creation-timestamp>1309332871000</creation-timestamp>
+					<relation-to-viewer>
+						<available-actions total="1">
+							<action>
+								<code>flag-as-inappropriate</code>
+							</action>
+						</available-actions>
+					</relation-to-viewer>
+				</comment>
+				<comment>
+					<id>g-50472-S-59863535-43663246</id>
+					<text>Yes, I hope that is the case.  We covered all the basics from simple text output to JFrame graphic displays.  I am wondering if there are other sites recommended other than SourceForge that I can review.</text>
+					<creator>
+						<id>Y3GfgJ0jPN</id>
+						<first-name>Steve</first-name>
+						<last-name>R.</last-name>
+						<headline>System Administrator</headline>
+					</creator>
+					<creation-timestamp>1309373965000</creation-timestamp>
+					<relation-to-viewer>
+						<available-actions total="1">
+							<action>
+								<code>flag-as-inappropriate</code>
+							</action>
+						</available-actions>
+					</relation-to-viewer>
+				</comment>
+				<comment>
+					<id>g-50472-S-59863535-43664113</id>
+					<text>try here on google code project:
+[http://code.google.com/hosting/search?q=label%3AJava+label%3Abeginner&amp;projectsearch=Search+projects|leo://plh/http%3A*3*3code%2Egoogle%2Ecom*3hosting*3search%3Fq%3Dlabel%253AJava%2Blabel%253Abeginner%26projectsearch%3DSearch%2Bprojects/0uVz?_t=tracking_disc]
+
+btw you could start create one project and try how it goes.
+for small teams agile software development is recommended.</text>
+					<creator>
+						<id>EVxPRNv4K1</id>
+						<first-name>Mladen</first-name>
+						<last-name>U.</last-name>
+						<headline>developer</headline>
+					</creator>
+					<creation-timestamp>1309374424000</creation-timestamp>
+					<relation-to-viewer>
+						<available-actions total="1">
+							<action>
+								<code>flag-as-inappropriate</code>
+							</action>
+						</available-actions>
+					</relation-to-viewer>
+				</comment>
+				<comment>
+					<id>g-50472-S-59863535-43717430</id>
+					<text>[http://www.github.com/|leo://plh/http%3A*3*3www%2Egithub%2Ecom*3/iKgq?_t=tracking_disc]</text>
+					<creator>
+						<id>yA0qaDGt__</id>
+						<first-name>RenÃ©</first-name>
+						<last-name>J.</last-name>
+						<headline>Head of R&amp;D</headline>
+					</creator>
+					<creation-timestamp>1309425253000</creation-timestamp>
+					<relation-to-viewer>
+						<available-actions total="1">
+							<action>
+								<code>flag-as-inappropriate</code>
+							</action>
+						</available-actions>
+					</relation-to-viewer>
+				</comment>
+			</comments>
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=59863535&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-59830214</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Java app which takes frequent set of data/record and insert into oracle database simultaneously. It looks like frequent insertion in DB in a large chunk like trading. plz suggest design approach.</title>
+			<summary>Design should support a few hundreds of transactions simultaneously.</summary>
+			<creator>
+				<id>rLOGqzjS0A</id>
+				<first-name>Rajiv</first-name>
+				<last-name>S.</last-name>
+				<headline>Senior Engineer at COLT Technology Services</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_imOA6RjqsDLnXGsMSEma6ZgnswisXTIMT7om6ZaQ5mcERLpJ7eaje4seNL_5bQovGSpfd0Kgxgis</picture-url>
+			</creator>
+			<creation-timestamp>1309284850000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=59830214&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-59620032</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>java.sun.com</title>
+			<summary/>
+			<creator>
+				<id>H8ux0QhGi1</id>
+				<first-name>Khalid Azam</first-name>
+				<last-name>(.</last-name>
+				<headline>MTS-3 at Juniper Networks | Core Java / Swing / Eclipse (RCP / IDE) Plug-in Developer</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_JqFQXFBf7Wdu1MaVRvBJX5z3_Ef80VaVU11JXkqYy7RKhYJsv-cEEX8KSX7xyjf94cLZIi65AVDR</picture-url>
+			</creator>
+			<creation-timestamp>1309183231000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<attachment>
+				<content-url>http://java.sun.com/docs/books/performance/1st_edition/html/JPSwingThreads.fm.html</content-url>
+				<title>java.sun.com</title>
+				<content-domain>java.sun.com</content-domain>
+			</attachment>
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=59620032&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-59573188</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>Summer Series: Part 3: 'An introduction to Test Driven Development'</title>
+			<summary>Emmet Townsend, Chief Technology Officer of D&amp;B Business Information Solutions (formerly known as Dun &amp; Bradstreet) presents a live webinar on 'Test Driven Development'. This is the third webinar in their Summer Series.
+
+https://www2.gotomeeting.com/register/243935858</summary>
+			<creator>
+				<id>IYGxc0nYcL</id>
+				<first-name>Michele</first-name>
+				<last-name>H.</last-name>
+				<headline>Currently recruiting for Java Development positions for D&amp;B, Sandyford</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_Y5gdzl4Kb8i1Nea-pG0nz-sxbhKinDO-pCWnz-ZCZLk1WWdt-_SLUt2uWmrpzo0OxQxcVvQB0M6E</picture-url>
+			</creator>
+			<creation-timestamp>1309163388000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="0" />
+			<comments total="0" />
+			<attachment>
+				<content-url>https://www2.gotomeeting.com/register/243935858</content-url>
+				<title>Summer Series: Part 3: 'An introduction to Test Driven Development'</title>
+				<summary>Emmet Townsend, Chief Technology Officer of D&amp;B Business Information Solutions (formerly known as Dun &amp; Bradstreet) presents a live webinar on 'Test Driven Development'. This is the third webinar in their Summer Series.</summary>
+				<image-url>https://www2.gotomeeting.com/g2w/images/243935858/104466198993975828</image-url>
+				<content-domain>gotomeeting.com</content-domain>
+			</attachment>
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=59573188&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+		<post>
+			<id>g-50472-S-59519065</id>
+			<type>
+				<code>standard</code>
+			</type>
+			<category>
+				<code>discussion</code>
+			</category>
+			<title>The Missing Step in Release Management</title>
+			<summary>The Missing Step in Release Management
+
+How can you enable a Rapid Delivery of Java Applications to Middleware and Cloud Environments?
+
+How you can enable:
+â€¢ Over 30% reduction in application Time to Market
+â€¢ Optimized resource utilization, saving millions in OPEX
+â€¢ Bridge the gap between Dev &amp; Ops
+â€¢ Avoidance of rework
+â€¢ Comprehensive extended reporting
+â€¢ and much more...
+
+Join this Webinar, June 30th, 2pm (EST)
+
+Whether you deploy to WebSphere, Weblogic, Tomcat, JBoss or you deploy to the cloud using VMware, Redhat or IBM cloud solutions, you will find this webinar has valuable content for you.
+
+Sign up Now and we will send you a 'Save the Date' calendar invite!
+http://www.xebialabs.com/Release_Management</summary>
+			<creator>
+				<id>bCWfdeUlDw</id>
+				<first-name>Coert</first-name>
+				<last-name>B.</last-name>
+				<headline>CEO</headline>
+				<picture-url>http://media.linkedin.com/mpr/mprx/0_Dr__gVCYl1rW-tC27z8pgMCOlN5WrNi27cBpgML7mllMfrquT9P71JlTxVLnPPGh21TgtORFncq6</picture-url>
+			</creator>
+			<creation-timestamp>1309100056000</creation-timestamp>
+			<relation-to-viewer>
+				<is-following>false</is-following>
+				<is-liked>false</is-liked>
+				<available-actions total="7">
+					<action>
+						<code>add-comment</code>
+					</action>
+					<action>
+						<code>categorize-as-job</code>
+					</action>
+					<action>
+						<code>categorize-as-promotion</code>
+					</action>
+					<action>
+						<code>flag-as-inappropriate</code>
+					</action>
+					<action>
+						<code>follow</code>
+					</action>
+					<action>
+						<code>like</code>
+					</action>
+					<action>
+						<code>reply-privately</code>
+					</action>
+				</available-actions>
+			</relation-to-viewer>
+			<likes total="1">
+				<like>
+					<person>
+						<id>qmfKdaCliN</id>
+						<first-name>Kevin</first-name>
+						<last-name>D.</last-name>
+						<headline>Regional Sales Manager at XebiaLabs</headline>
+						<picture-url>http://media.linkedin.com/mpr/mprx/0_U-ft0k57VKj2xQbmUraD06hPZ9wmPLbmJKRD06b7b1xYuTKacq0YlQ1TnZIlrGQCsADurTzs2an6</picture-url>
+					</person>
+				</like>
+			</likes>
+			<comments total="0" />
+			<site-group-post-url>http://api.linkedin.com/groupItem?view=&amp;gid=50472&amp;item=59519065&amp;type=member&amp;trk=api*a101220*s101220*</site-group-post-url>
+		</post>
+	</posts>
+</group>

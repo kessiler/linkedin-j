@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<companies total="2">
+	<company key="162479">
+		<id>162479</id>
+		<name>Apple</name>
+	</company>
+	<company key="universal-name=linkedin">
+		<id> 1337</id>
+		<name>LinkedIn</name>
+	</company>
+</companies>

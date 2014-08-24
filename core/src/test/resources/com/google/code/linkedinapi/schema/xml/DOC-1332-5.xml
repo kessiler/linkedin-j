@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<posts total="227" count="5" start="0">
+  <post>
+    <creation-timestamp>1311578464000</creation-timestamp>
+    <title>Big data analytics made easy: Radoop</title>
+    <summary>Those of you who visited RCOMM 2011 already know about Radoop , the powerful combination of RapidMiner with Hadoop. This make big data analytics easier then ever. I missed the talk myself (shame on me!) but we had a lot of...</summary>
+    <creator>
+      <first-name>Vincent</first-name>
+      <last-name>G.</last-name>
+      <picture-url>http://media.linkedin.com/mpr/mprx/0_-zC9rqCjDtA1PxN0KrTdrn1y7qCtlVL0K-nWrBAuKAnCmY-xY1tVYc5CTsGS-jX1198H0risF0LS</picture-url>
+      <headline>Chief Scientist at LookSmart</headline>
+    </creator>
+    <likes total="0" />
+    <attachment>
+      <image-url>http://rapid-i.com/images/radoop-bigweb.png</image-url>
+      <content-domain>rapid-i.com</content-domain>
+      <content-url>http://rapid-i.com/component/option,com_myblog/show,Big-data-analytics-made-easy-Radoop.html/Itemid,172/</content-url>
+      <title>Big data analytics made easy: Radoop</title>
+      <summary>Those of you who visited RCOMM 2011 already know about Radoop , the powerful combination of RapidMiner with Hadoop. This make big data analytics easier then ever. I missed the talk myself (shame on me!) but we had a lot of...</summary>
+    </attachment>
+    <relation-to-viewer>
+      <is-following>false</is-following>
+      <is-liked>false</is-liked>
+      <available-actions total="7">
+        <action>
+          <code>add-comment</code>
+        </action>
+        <action>
+          <code>flag-as-inappropriate</code>
+        </action>
+        <action>
+          <code>flag-as-job</code>
+        </action>
+        <action>
+          <code>flag-as-promotion</code>
+        </action>
+        <action>
+          <code>follow</code>
+        </action>
+        <action>
+          <code>like</code>
+        </action>
+        <action>
+          <code>reply-privately</code>
+        </action>
+      </available-actions>
+    </relation-to-viewer>
+  </post>
+  <post>
+    <creation-timestamp>1311544129000</creation-timestamp>
+    <title>Know it Well, Pharma/Biotech Marketers! In-depth 3-day Courses in Managed Markets, Segmentation &amp; Market Research.</title>
+    <summary>Managed Markets, Segmentation &amp; Market Research! Know it Well! Know the Secrets! Comprehensive, in-depth and &quot;no-holds-barred&quot; training courses. More detail at PharmaCourses.com.
+
+Upcoming training in 2011 includes courses on:
+* US Payers/Managed Care Strategic Planning &amp; Execution for Pharma/Biotech. Aug 10-12 &amp; Oct 5-7, 2011
+* Segmentation &amp; Targeting for Pharma/Biotech: Physician, Patient, Payer and Hospitals. Sep 7-9, 2011.
+* Marketing Research for &quot;Real-life&quot; Pharma/Biotech Decision Making. Nov 16-18,2011.
+
+Excertps of testimonials at PharmaCourses.com:
+* &quot;This is the most comprehensive managed care training course that I have seen…&quot; Vice-President, Commercial Operations, Pharma Co. 
+* &quot;One of the best training classes I have ever taken. Excellent Value.&quot; Director, Health Economics, Pharma Co. 
+* &quot;…in-depth behind the scenes look …&quot; Senior Manager, Market Research, Pharma Co. 
+* &quot;Valuable overview…&quot; Director, Pricing, Pharma Co. 
+
+About the Institute of Pharmaceutical Management - The Institute provides comprehensive, pragmatic and unbiased training for pharmaceutical/biotech professionals and executives. Intensive courses are developed with input from pharmaceutical professionals with the goals of helping individuals become self-reliant and be the best at their jobs. More detail at PharmaCourses.com.
+
+Please register soon to benefit from these courses and forward this e-mail to those who may benefit from them. Do also feel free to call me anytime at 267.907.9669 or e-mail SanjayBajpai@PharmaCourses.com.
+
+Make it a great day!
+
+Sanjay 
+---- 
+Sanjay Bajpai 
+President, Institute of Pharmaceutical Management
+PharmaCourses.com
+267.907.9669 (O)</summary>
+    <creator>
+      <first-name>Sanjay</first-name>
+      <last-name>B.</last-name>
+      <headline>President, Institute of Pharmaceutical Management - Pharma Market Research, Market Access, Managed Markets &amp; Health Econ</headline>
+    </creator>
+    <likes total="0" />
+    <attachment>
+      <content-domain>pharmacourses.com</content-domain>
+      <content-url>http://PharmaCourses.com</content-url>
+      <title>Institute of Pharmaceutical Management-Home</title>
+    </attachment>
+    <relation-to-viewer>
+      <is-following>false</is-following>
+      <is-liked>false</is-liked>
+      <available-actions total="7">
+        <action>
+          <code>add-comment</code>
+        </action>
+        <action>
+          <code>flag-as-inappropriate</code>
+        </action>
+        <action>
+          <code>flag-as-job</code>
+        </action>
+        <action>
+          <code>flag-as-promotion</code>
+        </action>
+        <action>
+          <code>follow</code>
+        </action>
+        <action>
+          <code>like</code>
+        </action>
+        <action>
+          <code>reply-privately</code>
+        </action>
+      </available-actions>
+    </relation-to-viewer>
+  </post>
+  <post>
+    <creation-timestamp>1311487848000</creation-timestamp>
+    <title>Is there a way to use Support Vector Machines with categorical predictor variables in R?</title>
+    <summary>I am facing a situation where I am trying to fit an SVM classification model in R. I have used the e1071 package before. But in this case, the predictiors are mostly categorical. 
+1. Can we fit an SVM using categorical predictors?
+2. Is there a way to achieve this in R?</summary>
+    <creator>
+      <first-name>Tanumoy</first-name>
+      <last-name>G.</last-name>
+      <picture-url>http://media.linkedin.com/mpr/mprx/0_xxsvAv6Fo-Qj8fNjgyoQA9LLHN3DufLjjjmoAcFqclzjPw-g1MEMxBPV6VT-fHXAYyZwOKvn0Sou</picture-url>
+      <headline>Analyst at Prudential PLC</headline>
+    </creator>
+    <likes total="0" />
+    <relation-to-viewer>
+      <is-following>false</is-following>
+      <is-liked>false</is-liked>
+      <available-actions total="7">
+        <action>
+          <code>add-comment</code>
+        </action>
+        <action>
+          <code>flag-as-inappropriate</code>
+        </action>
+        <action>
+          <code>flag-as-job</code>
+        </action>
+        <action>
+          <code>flag-as-promotion</code>
+        </action>
+        <action>
+          <code>follow</code>
+        </action>
+        <action>
+          <code>like</code>
+        </action>
+        <action>
+          <code>reply-privately</code>
+        </action>
+      </available-actions>
+    </relation-to-viewer>
+  </post>
+  <post>
+    <creation-timestamp>1311487789000</creation-timestamp>
+    <title>Management Project - Market Research on Financial Services</title>
+    <summary>Hello Everyone,
+
+I am currently doing a market research on financial services and require information on the current trends. Please click on the link below and take part in a quick and short survey which would go a long way in helping me out with this. The answers are anonymous and not visible to everyone.
+
+Appreciate your trouble and effort.
+
+Thanks and Regards,
+Mudassar Ahmed</summary>
+    <creator>
+      <first-name>Mudassar</first-name>
+      <last-name>A.</last-name>
+      <picture-url>http://media.linkedin.com/mpr/mprx/0_ByD7XFKBNWoa3QOVJZayX5CIqf7O3QxVzUJrX58IIoUaOGesRsj_ELqLVTf3CTY9nxflIGtKDHe5</picture-url>
+      <headline>Student at TiasNimbas Business School</headline>
+    </creator>
+    <likes total="0" />
+    <attachment>
+      <content-domain>surveymonkey.com</content-domain>
+      <content-url>http://www.surveymonkey.com/s/RJLTZ8P</content-url>
+      <title>Financial Information Services Survey</title>
+      <summary>. Type of financial data generally traded in your line of...</summary>
+    </attachment>
+    <relation-to-viewer>
+      <is-following>false</is-following>
+      <is-liked>false</is-liked>
+      <available-actions total="7">
+        <action>
+          <code>add-comment</code>
+        </action>
+        <action>
+          <code>flag-as-inappropriate</code>
+        </action>
+        <action>
+          <code>flag-as-job</code>
+        </action>
+        <action>
+          <code>flag-as-promotion</code>
+        </action>
+        <action>
+          <code>follow</code>
+        </action>
+        <action>
+          <code>like</code>
+        </action>
+        <action>
+          <code>reply-privately</code>
+        </action>
+      </available-actions>
+    </relation-to-viewer>
+  </post>
+  <post>
+    <creation-timestamp>1311487776000</creation-timestamp>
+    <title>6 Techniques to Make Analytics Work for You</title>
+    <summary>http://manjeetss.com/knowledgebase.html#analytics</summary>
+    <creator>
+      <first-name>Manjeet Singh</first-name>
+      <last-name>S.</last-name>
+      <picture-url>http://media.linkedin.com/mpr/mprx/0_3PuunxL-cCz9thfti1xPnpLOvTlJK5Yt_AZ1npCaEk5d73W-Svy84y9hUfA61CxYhKmtMUrwOP7h</picture-url>
+      <headline>Information Management Consultant at Tata Consultancy Services</headline>
+    </creator>
+    <likes total="0" />
+    <relation-to-viewer>
+      <is-following>false</is-following>
+      <is-liked>false</is-liked>
+      <available-actions total="7">
+        <action>
+          <code>add-comment</code>
+        </action>
+        <action>
+          <code>flag-as-inappropriate</code>
+        </action>
+        <action>
+          <code>flag-as-job</code>
+        </action>
+        <action>
+          <code>flag-as-promotion</code>
+        </action>
+        <action>
+          <code>follow</code>
+        </action>
+        <action>
+          <code>like</code>
+        </action>
+        <action>
+          <code>reply-privately</code>
+        </action>
+      </available-actions>
+    </relation-to-viewer>
+  </post>
+</posts>
