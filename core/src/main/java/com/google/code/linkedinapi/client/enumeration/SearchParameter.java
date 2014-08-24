@@ -105,7 +105,22 @@ public enum SearchParameter implements FieldEnum, SearchEnum {
     /**
      * Facet buckets to return.
      */
-    FACETS("facets", EnumSet.of(SearchScope.PEOPLE, SearchScope.COMPANIES, SearchScope.JOBS));
+    FACETS("facets", EnumSet.of(SearchScope.PEOPLE, SearchScope.COMPANIES, SearchScope.JOBS)),
+    
+    /**
+     * Start location within the result set for paginated returns.
+     */
+    START("start", EnumSet.of(SearchScope.PEOPLE, SearchScope.COMPANIES, SearchScope.JOBS)),
+    
+    /**
+     * The number of profiles to return.
+     */
+    COUNT("count", EnumSet.of(SearchScope.PEOPLE, SearchScope.COMPANIES, SearchScope.JOBS)),
+    
+    /**
+     * Controls the search result order.
+     */
+    SORT("sort", EnumSet.of(SearchScope.PEOPLE, SearchScope.COMPANIES, SearchScope.JOBS));
     
     /**
      * Field Description.
